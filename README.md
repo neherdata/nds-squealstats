@@ -22,7 +22,7 @@
 
 | Pig Name       | Other thing          |
 |----------------|----------------------|
-| Pink           | (piggycons/sdot.gif) |
+| Pink           | (/piggycons/sdot.gif) |
 | Dot            | (piggycons/sdot.gif) |
 | Razorback      | (piggycons/sdot.gif) |
 | Trotter        | (piggycons/sdot.gif) |
