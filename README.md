@@ -17,3 +17,7 @@
 - Trotter
 - Snouter
 - Leaning Jowler
+
+## Publications
+
+''' John C. Kern (2006) Pig Data and Bayesian Inference on Multinomial Probabilities, Journal of Statistics Education, 14:3, DOI: 10.1080/10691898.2006.11910593 '''
