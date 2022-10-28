@@ -5,13 +5,12 @@
 </picture>
  -->
 
-# SquealStats - Pass the Pigs on the Public Cloud
+# SquealStats - Pass the Pigs on Public Cloud
 
 ![SquealStats](/pigArt.png)
 
+## The Pigs:
 ```
-The Pigs:
-
 - Pink
 - Dot
 - Razorback
@@ -20,6 +19,18 @@ The Pigs:
 - Leaning Jowler
 ```
 
+
+| Pig Name       | Other thing          |
+|----------------|----------------------|
+| Pink           | (piggycons/sdot.gif) |
+| Dot            | (piggycons/sdot.gif) |
+| Razorback      | (piggycons/sdot.gif) |
+| Trotter        | (piggycons/sdot.gif) |
+| Snouter        | (piggycons/sdot.gif) |
+| Leaning Jowler | (piggycons/sdot.gif) |
+
 ## Publications
 
-''' John C. Kern (2006) Pig Data and Bayesian Inference on Multinomial Probabilities, Journal of Statistics Education, 14:3, DOI: 10.1080/10691898.2006.11910593 '''
+```
+1. John C. Kern (2006) Pig Data and Bayesian Inference on Multinomial Probabilities, Journal of Statistics Education, 14:3, DOI: 10.1080/10691898.2006.11910593
+```
