@@ -9,7 +9,8 @@
 
 ![SquealStats](/pigArt.png)
 
-## Our Pigs:
+```
+The Pigs:
 
 - Pink
 - Dot
@@ -17,6 +18,7 @@
 - Trotter
 - Snouter
 - Leaning Jowler
+```
 
 ## Publications
 
